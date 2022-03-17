@@ -6,4 +6,4 @@ It's a simple project from me for saving the earth
 
 <p><img src="./Earth.webp"></p>
 
-<a href="./Earth.webp"> Click here if Image not loading </a>
+<a href="./Earth.webp"> Click here if Image not loading and then click on view raw </a>
