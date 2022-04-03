@@ -15,4 +15,10 @@ Click here if Image not loading and then click on view raw
 
 Or
 
-<a href="https://raw.githubusercontent.com/BlaizingInfernoDragon123/save-the-earth-/main/Earth.webp">Or click here For Online View</a>
+<a href="https://raw.githubusercontent.com/BlaizingInfernoDragon123/save-the-earth-/main/Earth.webp">
+
+```
+Or click here For Online View
+```
+
+</a>
