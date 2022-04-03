@@ -1,5 +1,5 @@
 # save-the-earth-
-It's a simple project from me for saving the earth
+It's a simple project from me for saving the earth (Template) U can use it but plss give credit to us 
 
 <p><img src="https://www.shutterstock.com/image-illustration/planet-earth-sunrise-elements-this-image-1149578612"></p>
 
